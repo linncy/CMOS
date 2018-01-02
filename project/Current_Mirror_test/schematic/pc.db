@@ -1,0 +1,20 @@
+#
+umc90nm NCAP_10_SP symbol
+C0
+#
+analogLib vdc symbol
+V2
+V1
+V0
+#
+project Current_Mirror symbol
+I0
+#ISCELL
+analogLib vdd symbol
+I1
+#ISCELL
+analogLib gnd symbol
+I3
+I4
+I5
+I2

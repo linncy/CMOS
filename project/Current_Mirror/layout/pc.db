@@ -1,0 +1,17 @@
+#
+umc90nm P_10_SP layout
+|PM0
+|PM2
+|PM1
+#
+umc90nm N_10_SP layout
+|NM2
+|NM0
+|NM1
+#ISCELL
+test poly1_T symbolic
+Vcontrol
+EN
+out
+vdd!
+gnd!
