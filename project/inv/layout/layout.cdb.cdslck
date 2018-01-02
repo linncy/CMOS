@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      nick
+HostName                       redhat
+ProcessIdentifier              17568
+ProcessCreationTime_UTC        1514888601
+ProcessCreationTime_Readable   Tue Jan  2 02:23:21 2018 PST
+AppIdentifier                  /home/nick/aaa/tools/dfII/bin/icfb.exe
+OSType                         lnx86
+ReasonForPlacingEditLock       XXsave write lock
+FilePathUsedToEditLock         /home/nick/project/inv/layout/layout.cdb
+TimeEditLocked                 Tue Jan  2 02:40:10 2018 PST

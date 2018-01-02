@@ -1,0 +1,29 @@
+#
+umc90nm N_10_SP layout
+|NM3
+|NM0
+|NM1
+#
+umc90nm P_10_SP layout
+|PM0
+|PM2
+|PM1
+#ISCELL
+project M1_NWEL symbolic
+I0
+#ISCELL
+project M1_POLY symbolic
+I2
+I6
+I7
+#ISCELL
+project M2_M1 symbolic
+I10
+I4
+I9
+#ISCELL
+project M3_M2 symbolic
+I5
+#ISCELL
+project M1_PSUB symbolic
+I11

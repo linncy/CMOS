@@ -1,0 +1,16 @@
+#
+analogLib vpulse symbol
+V1
+#
+analogLib vdc symbol
+V0
+#
+project Schmidt symbol
+I0
+#ISCELL
+analogLib vdd symbol
+I1
+#ISCELL
+analogLib gnd symbol
+I3
+I2
