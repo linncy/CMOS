@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      nick
 HostName                       redhat
-ProcessIdentifier              23737
-ProcessCreationTime_UTC        1514894156
-ProcessCreationTime_Readable   Tue Jan  2 03:55:56 2018 PST
+ProcessIdentifier              2484
+ProcessCreationTime_UTC        1515069250
+ProcessCreationTime_Readable   Thu Jan  4 04:34:10 2018 PST
 AppIdentifier                  /home/nick/aaa/tools/dfII/bin/icfb.exe
 OSType                         lnx86
 ReasonForPlacingEditLock       XXsave write lock
 FilePathUsedToEditLock         /home/nick/project/VCO/schematic/sch.cdb
-TimeEditLocked                 Tue Jan  2 07:21:43 2018 PST
+TimeEditLocked                 Thu Jan  4 05:42:16 2018 PST

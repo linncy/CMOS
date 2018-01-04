@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Thu Jan  4 04:34:10 2018 PST
 AppIdentifier                  /home/nick/aaa/tools/dfII/bin/icfb.exe
 OSType                         lnx86
 ReasonForPlacingEditLock       XXsave write lock
-FilePathUsedToEditLock         /home/nick/project/cap_test/schematic/sch.cdb
-TimeEditLocked                 Thu Jan  4 07:02:13 2018 PST
+FilePathUsedToEditLock         /home/nick/project/VCO/layout/layout.cdb
+TimeEditLocked                 Thu Jan  4 07:24:29 2018 PST

@@ -2,6 +2,9 @@
 umc90nm NCAP_25 layout
 |C0
 #
+project AND layout
+|I11
+#
 project inv layout
 |I2
 #
@@ -10,3 +13,16 @@ project Schmidt layout
 #
 project Current_Mirror layout
 |I0
+#ISCELL
+test M2_M1 symbolic
+I5
+I1
+#ISCELL
+test M1_NWEL symbolic
+I2
+#ISCELL
+test M1_PSUB symbolic
+I3
+#ISCELL
+test M1_POLY symbolic
+I4

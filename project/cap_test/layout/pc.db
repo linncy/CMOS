@@ -1,0 +1,12 @@
+#
+umc90nm NCAP_25 layout
+|C0
+#ISCELL
+test M1_PSUB symbolic
+I5
+#ISCELL
+test M1_NWEL symbolic
+I3
+#ISCELL
+test M1_POLY symbolic
+I1
