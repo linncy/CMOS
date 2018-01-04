@@ -1,14 +1,10 @@
 #
-project AND symbol
-I11
-#
-umc90nm NCAP_25 symbol
-C0
-#
 analogLib vdc symbol
-V4
 V1
 V0
+#
+umc90nm NCAP_10_SP symbol
+C0
 #
 project inv symbol
 I2
@@ -20,10 +16,9 @@ project Current_Mirror symbol
 I0
 #ISCELL
 analogLib gnd symbol
-I12
-I6
+I3
 I5
 I4
 #ISCELL
 analogLib vdd symbol
-I7
+I6

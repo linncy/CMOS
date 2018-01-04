@@ -1,0 +1,12 @@
+#
+umc90nm NCAP_10_SP layout
+|C0
+#
+project inv layout
+|I2
+#
+project Schmidt layout
+|I1
+#
+project Current_Mirror layout
+|I0
