@@ -1,0 +1,37 @@
+#
+analogLib cap symbol
+C0
+#
+analogLib vdc symbol
+V1
+V2
+V0
+#
+umc90nm P_10_SP symbol
+PM2
+PM1
+PM0
+#
+umc90nm N_10_SP symbol
+NM2
+NM1
+NM0
+#ISCELL
+analogLib vdd symbol
+I13
+I4
+I3
+I2
+I1
+I0
+#ISCELL
+analogLib gnd symbol
+I15
+I12
+I11
+I10
+I9
+I8
+I7
+I6
+I5

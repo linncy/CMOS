@@ -1,8 +1,6 @@
 #
-analogLib vpulse symbol
-V1
-#
 analogLib vdc symbol
+V2
 V0
 #
 project Schmidt symbol

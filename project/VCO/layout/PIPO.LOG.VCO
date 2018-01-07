@@ -1,0 +1,14 @@
+
+********************************************************************************
+Product   : Virtuoso(R) STREAM Out
+Program   : @(#)$CDS: pipo.exe version 5.1.0 10/28/2008 10:26 (cicln03) $
+SubVersion: sub-version 5.10.41_USR6.127.29
+Started at: 04-Jan-2018  23:27:50
+User Name : nick
+Host Name : redhat
+Directory : /home/nick
+CADENCE Design Systems, Inc.
+********************************************************************************
+
+* Fatal * dbOpenCellViewByType: Failed to open cellView (VCO layout) from lib (project).  Not a valid database file.
+FATAL (6): Failed to open the primary cellview `project/VCO/layout'. Check that the source library exists in the location defined in the 'cds.lib' file, and primary cell exists.
